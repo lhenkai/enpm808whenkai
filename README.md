@@ -1,2 +1,2 @@
 # enpm808whenkai
-enpm808w repo
+This is a repo for class ENPM808W. 
